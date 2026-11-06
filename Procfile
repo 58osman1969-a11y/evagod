@@ -1,1 +1,1 @@
-worker: python evagod.py
+worker: python prmt.py
